@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobiotics Encryption</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="encryption">Encryption</string>
+    <string name="encrypt">ENCRYPT</string>
+    <string name="decrypt">DECRYPT</string>
+    <string name="decryption">Decryption</string>
+    <string name="enter_something_to_encrypt">Please enter something to encrypt</string>
+    <string name="enter_something_to_decrypt">Please enter something to decrypt</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="result">Result :</string>
+    <string name="submit">SUBMIT</string>
+</resources>
